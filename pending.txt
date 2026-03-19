@@ -1,6 +1,0 @@
-13. Check if a year is a leap year.
-15. Check if a number is divisible by 2 but not by 5.
-16. Find the largest among three numbers.
-18. Check if a number ends with 0.
-25. Compare three numbers and print the smallest
-26. Check whether a character is uppercase or lowercase.
