@@ -1,4 +1,6 @@
 
+# Need to check whether the given number is divisible by 4 and 6 or not
+
 try:
     num=(input("Enter the number "))
     try:

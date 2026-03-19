@@ -1,3 +1,5 @@
+# Need to check whether the given character is vowel or consonant.
+
 
 vowels=["a","e","i","o","u"]
 

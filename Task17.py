@@ -1,4 +1,4 @@
-
+#  Need to check whether the given number is divisible by 3 and 5 or not.
 try:
     num=(input("Enter the number "))
     try:

@@ -1,4 +1,5 @@
 
+# Need to check whether the given number is divisible by 3 and 7 or not.
 try:
     num=(input("Enter the number "))
     try:
