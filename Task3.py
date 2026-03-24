@@ -11,6 +11,5 @@ try:
 
 except Exception as e:
         result=str(e)
-
 finally:
      print(result)
